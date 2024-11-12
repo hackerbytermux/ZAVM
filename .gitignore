@@ -1,0 +1,4 @@
+ZASM/.zig-cache
+ZASM/zig-out/*
+ZAVM/.zig-cache
+ZAVM/zig-out/*
